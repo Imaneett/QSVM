@@ -4,6 +4,7 @@ This repository contains an implementation of a Quantum Support Vector Machine (
 # PREQUISITES
 ## python
 To run the code in this repository, you will need to have the following software installed:<br />
+        1.python 3.x <br />
 	2.Qiskit <br />
 	3.NumPy <br />
 	4.Matplotlib <br />
@@ -11,18 +12,18 @@ To run the code in this repository, you will need to have the following software
  To use the Q# implementation of the QSVm, you will need to have the following software and hardware prerequisites:
 
 ### Software Prerequisites
-**[Microsoft Quantum Development Kit](https://learn.microsoft.com/en-us/azure/quantum/overview-what-is-qsharp-and-qdk#get-started-with-q-and-the-quantum-development-kit)**. <br />
+**[Microsoft Quantum Development Kit](https://learn.microsoft.com/en-us/azure/quantum/overview-what-is-qsharp-and-qdk#get-started-with-q-and-the-quantum-development-kit)** <br />
 Q# is part of the Microsoft Quantum Development Kit, so you will need to install the QDK to use Q#. 
 <br />
-**[Python 3.x](https://www.python.org/downloads/)**
+**[Python 3.x](https://www.python.org/downloads/)** <br />
  The Q# implementation of the QSVm relies on Python for data processing and visualization, so you will  need to have Python 3.x installed.
 
-### Hardware Prerequisites
-The QSVm is a quantum algorithm and requires access to a quantum computer or simulator to run. You have the following options:
+### Hardware Prerequisites:
+The QSVm is a quantum algorithm and requires access to a quantum computer or simulator to run. You have the following options: <br />
 
 **Use a quantum simulator:** <br />
 
-The Microsoft Quantum Development Kit includes a simulator that you can use to run Q# programs on your local machine.
+The Microsoft Quantum Development Kit includes a simulator that you can use to run Q# programs on your local machine.<br />
 
 **Access a quantum computer via the cloud:** <br />
 
