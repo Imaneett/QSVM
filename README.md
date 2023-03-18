@@ -1,7 +1,7 @@
 # QSVM
 This repository contains an implementation of a Quantum Support Vector Machine (QSVm) using the Qiskit framework. The QSVm is a quantum machine learning algorithm that can be used for binary classification problems. It has the potential to provide speedups over classical SVM algorithms on certain types of problems.
 
-## PREQUISITES
+# PREQUISITES
 ### python
 To run the code in this repository, you will need to have the following software installed:<br />
 	2.Qiskit <br />
@@ -14,9 +14,8 @@ To run the code in this repository, you will need to have the following software
 ### [Microsoft Quantum Development Kit](https://learn.microsoft.com/en-us/azure/quantum/overview-what-is-qsharp-and-qdk#get-started-with-q-and-the-quantum-development-kit). <br />
 Q# is part of the Microsoft Quantum Development Kit, so you will need to install the QDK to use Q#. 
 
-### [ Python 3.x] (https://www.python.org/downloads/)
-
-&nbsp The Q# implementation of the QSVm relies on Python for data processing and visualization, so you will  need to have Python 3.x installed.
+### [Python 3.x](https://www.python.org/downloads/)
+ The Q# implementation of the QSVm relies on Python for data processing and visualization, so you will  need to have Python 3.x installed.
 
 ## Hardware Prerequisites
 The QSVm is a quantum algorithm and requires access to a quantum computer or simulator to run. You have the following options:
